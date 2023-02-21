@@ -5,9 +5,10 @@ This project is created to help the user generate a readme file efficiently and 
 ## Deployed Application URL
 N/A
 ## Video
-![alt-text]()
+![alt-text](Recorder\Video_230221120640.keymp4")
 ## Screenshot
-![alt-text](D:\boot camp november\ReadMe-Generator\starter\Untitled.png)
+![alt-text][Untitled](https://user-images.githubusercontent.com/118377080/220346972-e2fb0689-e510-4c8d-88bd-8144281307e8.png)
+
 ## Table of Contents
 * [How to Use This Application](#HowtoUseThisApplication)
 * [Contributors](#contributors)
