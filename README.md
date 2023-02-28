@@ -1,28 +1,27 @@
-# README Generator 
-![Github license](https://img.shields.io/badge/license--blue.svg)
+# ReadMe generator 
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-This project is created to help the user generate a readme file efficiently and professionally. This app uses node js and inquirer to create a readme. All the user has to do is open the index.js file open the terminal go to the right folder and then write npm install. This will install all the dependencies for the app. After that write node index.js and answer the questions presented to them. 
+This project is created for developers so that it would help them generate professional looking readme file that would help their app user better understand their app. It asks the user a few questions about their project and generate the readme for them.
 ## Deployed Application URL
-N/A
-## Video
-![alt-text]()
+later
 ## Screenshot
-![alt-text](D:\boot camp november\ReadMe-Generator\starter\Untitled.png)
+![alt-text](late)
 ## Table of Contents
+* [Features](#features)
+* [Languages & Dependencies](#languagesanddependencies)
 * [How to Use This Application](#HowtoUseThisApplication)
 * [Contributors](#contributors)
 * [Testing](#testing)
 * [Questions](#questions)
-## How to Use This Application
-   > Open index.js file 
-   > Open a new terminal
-   > In the terminal write npm install and press enter to install the dependencies
-   > Now write node index.js to run the file 
-   > Answer the questions
-   > New readme is generated in the dist folder
-## Contributors 
-N/A
+## Features
+generates a beautiful looking readme file. Simple to use.
+## Languages & Dependencies
+Inquirer, node, javascript.
+## How to Use This Application:
+when you open the index.js file, open the terminal and make sure that you are in the right directory. Now type in npm install to install all the dependencies for this project. Once all the dependencies are installed go ahead and type in node index.js to run the file. After that answer the questions about your project and your readme will be generated in the dist folder.
+## Contributors
+n/a
 ## Testing
-N/A
+Its been tested.
 ## Questions
-Please send your questions [here](mailto:talha3172001@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/talha731](https://github.com/talha731).
+Please send your questions [here](mailto:talha7312001@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/talha731](https://github.com/talha731).
