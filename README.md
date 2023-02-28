@@ -4,10 +4,8 @@
 This project is created for developers so that it would help them generate professional looking readme file that would help their app user better understand their app. It asks the user a few questions about their project and generate the readme for them.
 ## Deployed Application URL
 N/A
-## Video
-![alt-text](Recorder\Video_230221120640.keymp4")
 ## Screenshot
-![alt-text][Untitled](https://user-images.githubusercontent.com/118377080/220346972-e2fb0689-e510-4c8d-88bd-8144281307e8.png)
+![image](https://user-images.githubusercontent.com/118377080/221991595-8fe9e730-884c-439f-80ee-ea71bd9a8a25.png)
 
 ## Table of Contents
 * [Features](#features)
